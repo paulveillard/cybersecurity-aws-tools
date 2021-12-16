@@ -4,6 +4,8 @@
 > A collection of awesome software, libraries, frameworks, learning tutorials,  documents, books, resources and cool stuff about AWS tools.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
+[AWS](https://aws.amazon.com/security/?nc=sn&loc=0) Tools for Cybersecurity is an ongoing curated list of tools for infosec and security professionals
+
 ## Table of Contents
 
 - [Defensive](#defensive-hardening-security-assessment-and-inventory)
