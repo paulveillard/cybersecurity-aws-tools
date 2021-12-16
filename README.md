@@ -6,6 +6,8 @@
 
 [AWS](https://aws.amazon.com/security/?nc=sn&loc=0) Tools for Cybersecurity is an ongoing curated list of tools, frameworks, libraries, learning tutorials for infosec and security professionals
 
+![aws-security](https://github.com/paulveillard/cybersecurity-aws-tools/blob/main/img/aws-security.png)
+
 ## Table of Contents
 
 - [Defensive](#defensive-hardening-security-assessment-and-inventory)
